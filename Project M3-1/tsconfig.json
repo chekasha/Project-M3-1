@@ -1,4 +1,10 @@
-{
+{"compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
